@@ -1,0 +1,5 @@
+beer
+bread
+chips
+salsa
+flowers

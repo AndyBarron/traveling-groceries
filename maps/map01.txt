@@ -1,0 +1,6 @@
+1, 2, Entrance
+3, 6, Aisle 1, beer, wine, liquor
+4, 6, Aisle 2, flowers, birthday cards, medicine
+7, 4, Bakery, bread, baked goods
+3, 2, Snacks, chips, dip, salsa, queso, crackers
+9, 3, Frozen Foods, ice cream, tv dinners
